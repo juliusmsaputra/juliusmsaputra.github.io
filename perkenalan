@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Perkenalan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Perkenalan</h1>
+    <p>Saya [YULIUS MOMA SAPUTRA], seorang [MAHASISWA] yang memiliki minat dalam [DUNIA PERCODINGAN].</p>
+    <p>Saya memiliki keterampilan dalam [html,css,java] dan telah mengembangkan [dikampus] melalui [dosen].</p>
+    <p>Saya berharap dapat berkontribusi pada [negara] dan meningkatkan kemampuan saya melalui [pembelajaran].</p>
+    <p>Anda dapat menghubungi saya melalui [_].</p>
+</body>
+</html>
